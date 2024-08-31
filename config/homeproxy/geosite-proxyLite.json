@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "dns.google",
+        "1dot1dot1dot1.cloudflare-dns.com",
+        "dot.sb",
+        "dns.umbrella.com",
+        "dns.quad9.net",
+        "cloudflare-dns.com",
+        "doh.dns.sb",
+        "doh.opendns.com",
+        "v2rayssr.com",
+        "dns.quad9.net",
+        "hk-hkg.doh.sb"
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
