@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "www.wogg.xyz",
+        "www.wogg.link",
+        "wogg.xyz",
+        "api.wogg.xyz",
+        "cdn.wogg.xyz",
+        "wogg.link",
+        "wogg.888484.xyz",
+        "wogg.888484.xyz",
+        "v6.wogg.xyz"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "wogg"
+      ]
+    }
+  ]
+}
